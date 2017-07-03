@@ -1,5 +1,7 @@
 # Deep Multitask Architecture for Integrated 2D and 3D Human Sensing
 
+![architecture](architecture.png)
+
 This package contains code for the Deep Multitask Human Sensing (DMHS) method, published in the CVPR 2017 paper [Deep Multitask Architecture for Integrated 2D and 3D Human Sensing](http://www.maths.lth.se/matematiklth/personal/sminchis/papers/dmhs-cvpr17.pdf). 
 
 By using the software, you are agreeing to the terms of the [license agreement](https://github.com/alinionutpopa/dmhs/blob/master/LICENSE).
