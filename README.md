@@ -32,7 +32,7 @@ If you use this code/model for your research, please cite the following paper:
 ## Installation Guide
 First, clone the project by running:
 ```
-git clone --recursive https://github.com/alinionutpopa/test.git
+git clone --recursive https://github.com/alinionutpopa/dmhs.git
 ```
 
 You need to compile the modified Caffe library in this repository. Instructions for Ubuntu 14.04 are included below. You can also consult the generic [Caffe installation guide](http://caffe.berkeleyvision.org/installation.html) for further help.
