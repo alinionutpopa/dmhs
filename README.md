@@ -113,4 +113,4 @@ Contact: <alin.popa@imar.ro> , <mihai.zanfir@imar.ro>
 
 
 ### Acknowledgments
-This work was supported in part by CNCS-UEFISCDI under PCE-2011-3-0438, JRP-RO-FR-2014-16.
+This work was supported in part by the European Research Council Consolidator grant SEED, CNCS-UEFISCDI under JRP-RO-FR-2014-16, the EU Horizon 2020 Grant #688835 (DE-ENIGMA), and SSF.
