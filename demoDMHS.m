@@ -94,7 +94,7 @@ if (displayMode == 1)
     set(gcf, 'Position', get(0,'Screensize'));
     for i = 1 : 6
         subplot(2, 3, i);
-        plotSkel(pose3D{i}, 'r');
+        plotSkel3D(pose3D{i}, 'r');
         title(sprintf('Pose 3D prediction - stage %d', i));
     end
     figure;
@@ -118,7 +118,7 @@ if (displayMode == 1)
         imshow(img);
         hold on;
         bodyHeight = max(pred(:,2)) - min(pred(:,2));
-        plot_visible_limbs(model, facealpha, pred, truncate, bodyHeight/30);
+        plotSkel2D(model, facealpha, pred, truncate, bodyHeight/30);
         plot(pred(:,1), pred(:,2), 'k.', 'MarkerSize', bodyHeight/32);
         title(sprintf('Pose 2D prediction - stage %d', i));
     end;
