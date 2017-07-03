@@ -6,7 +6,7 @@ This package contains code for the Deep Multitask Human Sensing (DMHS) method, p
 
 By using the software, you are agreeing to the terms of the [license agreement](https://github.com/alinionutpopa/dmhs/blob/master/LICENSE).
 
-Our software is built on top of the [Caffe](http://caffe.berkeleyvision.org/) deep learning library used by the [Convolutional Pose Machines](https://github.com/shihenw/convolutional-pose-machines-release) model. The current version was developed by:
+Our software is built on top of the [Caffe](http://caffe.berkeleyvision.org/) deep learning library used by the [Convolutional Pose Machines](https://github.com/shihenw/convolutional-pose-machines-release) method. The current version was developed by:
 
 [Alin-Ionut Popa](http://109.101.234.42//people.php?ID_p=23)
 and
@@ -52,7 +52,7 @@ You might need to blacklist some modules so that they do not interfere with the 
 ```
 sudo apt-get install freeglut3-dev build-essential libx11-dev libxmu-dev libxi-dev libgl1-mesa-glx libglu1-mesa libglu1-mesa-dev
 ``` 
-open /etc/modprobe.d/blacklist.conf and add:
+Open /etc/modprobe.d/blacklist.conf and add:
 ```
 blacklist amd76x_edac
 blacklist vga16fb
