@@ -17,6 +17,7 @@ Supervisor: [Cristian Sminchisescu](http://www.maths.lth.se/matematiklth/persona
 We provide a deep multitask architecture for fully automatic 2d and 3d human sensing (DMHS), including recognition and reconstruction, in monocular images. The system computes the figure-ground segmentation, semantically identifies the human body parts at pixel level, and estimates the 2d and 3d pose of the person. This software allows you to test our algorithm on your own images.
 
 ![sample1](sample1.png)
+![sample2](sample2.png)
 
 If you use this code/model for your research, please cite the following paper:
 ```
