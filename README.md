@@ -2,7 +2,7 @@
 
 This package contains code for the Deep Multitask Human Sensing (DMHS) method, published in the CVPR 2017 paper [Deep Multitask Architecture for Integrated 2D and 3D Human Sensing](http://www.maths.lth.se/matematiklth/personal/sminchis/papers/dmhs-cvpr17.pdf). 
 
-By using the software, you are agreeing to the terms of the [license agreement](https://github.com/alinionutpopa/dmhs/LICENSE).
+By using the software, you are agreeing to the terms of the [license agreement](https://github.com/alinionutpopa/dmhs/blob/master/LICENSE).
 
 Our software is built on top of the [Caffe](http://caffe.berkeleyvision.org/) deep learning library used by the [Convolutional Pose Machines](https://github.com/shihenw/convolutional-pose-machines-release) model. The current version was developed by:
 
