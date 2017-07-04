@@ -9,10 +9,10 @@ By using the software, you are agreeing to the terms of the [license agreement](
 Our software is built on top of the [Caffe](http://caffe.berkeleyvision.org/) deep learning library used by the [Convolutional Pose Machines](https://github.com/shihenw/convolutional-pose-machines-release) method. The current version was developed by:
 
 [Alin-Ionut Popa](http://109.101.234.42//people.php?ID_p=23)
-and
+,
 [Mihai Zanfir](http://109.101.234.42//people.php?ID_p=17).
-
-Supervisor: [Cristian Sminchisescu](http://www.maths.lth.se/matematiklth/personal/sminchis/index.html)
+and
+[Cristian Sminchisescu](http://www.maths.lth.se/matematiklth/personal/sminchis/index.html)
 
 We provide a deep multitask architecture for fully automatic 2d and 3d human sensing (DMHS), including recognition and reconstruction, in monocular images. The system computes the figure-ground segmentation, semantically identifies the human body parts at pixel level, and estimates the 2d and 3d pose of the person. This software allows you to test our algorithm on your own images.
 
@@ -109,7 +109,7 @@ The MATLAB script for running the demo is ``demoDMHS.m``. Change the ``displayMo
 
 Please note that our method requires an image cropped around the bounding box of the person. Also, please validate the scales for the 3D pose estimation and body part labeling tasks for other datasets than [Human3.6M](http://vision.imar.ro/human3.6m/description.php).
 
-Contact: <alin.popa@imar.ro> , <mihai.zanfir@imar.ro>
+Contact: <alin.popa@imar.ro> , <mihai.zanfir@imar.ro> , <cristian.sminchisescu@math.lth.se>
 
 
 ### Acknowledgments
