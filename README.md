@@ -103,7 +103,7 @@ All done! Try our method!
 
 
 ### 1.3 Run the demo
-First download the model that includes the trained weights from this [link](https://drive.google.com/open?id=0B2xD_tIOYyL1RlFhVGg4Y0VXYlk) into the ``model`` folder. 
+First download the model that includes the trained weights from this [link](https://drive.google.com/open?id=0B2xD_) into the ``model`` folder. 
 
 The MATLAB script for running the demo is ``demoDMHS.m``. Change the ``displayMode`` variable to ``1`` in order to visualize the results.
 
