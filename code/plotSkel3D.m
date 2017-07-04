@@ -32,6 +32,4 @@ zlabel('Z')
 grid on
 
 view(0,0);
-% plot3(pose3D(order(1), [10 9]), pose3D(order(2), [10 9]), pose3D(order(3), [10 9]), [colorOption '-']);
-% plot3(pose3D(order(1), [10 11]), pose3D(order(2), [10 11]), pose3D(order(3), [10 11]), [colorOption '-']);
 axis equal;
