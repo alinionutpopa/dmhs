@@ -10,7 +10,7 @@ Our software is built on top of the [Caffe](http://caffe.berkeleyvision.org/) de
 
 [Alin-Ionut Popa](http://109.101.234.42//people.php?ID_p=23)
 ,
-[Mihai Zanfir](http://109.101.234.42//people.php?ID_p=17).
+[Mihai Zanfir](http://109.101.234.42//people.php?ID_p=17)
 and
 [Cristian Sminchisescu](http://www.maths.lth.se/matematiklth/personal/sminchis/index.html)
 
