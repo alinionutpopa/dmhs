@@ -107,7 +107,7 @@ First download the model that includes the trained weights from this [link](http
 
 The MATLAB script for running the demo is ``demoDMHS.m``. Change the ``displayMode`` variable to ``1`` in order to visualize the results.
 
-Please note that our method requires an image cropped around the bounding box of the person. Also, please validate the scales for the 3D pose estimation and body part labeling tasks.
+Please note that our method requires an image cropped around the bounding box of the person. Also, please validate the scales for the 3D pose estimation and body part labeling tasks for other datasets than [Human3.6M](http://vision.imar.ro/human3.6m/description.php).
 
 Contact: <alin.popa@imar.ro> , <mihai.zanfir@imar.ro>
 
