@@ -93,7 +93,7 @@ make
 ```
 
 If there are no error messages, you can then compile and install the Python and Matlab wrappers:
-To install the MATLAB wrapper:
+To install the MATLAB wrapper (at the moment only for MATLAB versions prior to 2017):
 ```
 make matcaffe
 ```
@@ -105,7 +105,7 @@ All done! Try our method!
 ### 1.3 Run the demo
 First download the model that includes the trained weights from this [link](https://drive.google.com/open?id=0B2xD_tIOYyL1RlFhVGg4Y0VXYlk) into the ``model`` folder. Also, change the ``caffepath`` variable from ``code/config.m`` file accordingly.
 
-The MATLAB script for running the demo is ``demoDMHS.m``. Change the ``displayMode`` variable to ``1`` in order to visualize the results.
+The MATLAB script for running the demo on all three tasks (i.e. 2D pose estimation, body part labeling and 3D pose estimation) is ``demoDMHS.m``. The MATLAB script for running the demo on the 3D pose estimation task alone (**much faster** than ``demoDMHS.m``) is ``demoDMHS_3D.m``. Change the ``displayMode`` variable to ``1`` in order to visualize the results.
 
 Please note that our method requires an image cropped around the bounding box of the person. Also, please validate the scales for the 3D pose estimation and body part labeling tasks for other datasets than [Human3.6M](http://vision.imar.ro/human3.6m/description.php).
 
